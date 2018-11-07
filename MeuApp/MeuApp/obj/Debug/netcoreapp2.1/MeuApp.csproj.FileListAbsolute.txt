@@ -1,0 +1,10 @@
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\bin\Debug\netcoreapp2.1\MeuApp.deps.json
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\bin\Debug\netcoreapp2.1\MeuApp.runtimeconfig.json
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\bin\Debug\netcoreapp2.1\MeuApp.runtimeconfig.dev.json
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\bin\Debug\netcoreapp2.1\MeuApp.dll
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\bin\Debug\netcoreapp2.1\MeuApp.pdb
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\obj\Debug\netcoreapp2.1\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\obj\Debug\netcoreapp2.1\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\obj\Debug\netcoreapp2.1\MeuApp.AssemblyInfo.cs
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\obj\Debug\netcoreapp2.1\MeuApp.dll
+C:\Users\Cassianu!s\Documents\GitHub\devmedia-CSharp-OQueECSharp\MeuApp\MeuApp\obj\Debug\netcoreapp2.1\MeuApp.pdb
